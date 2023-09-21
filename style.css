@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200&family=Roboto:wght@300;400&display=swap");
+
+header {
+  background: url(./huddle/images/bg-hero-desktop.svg) hsl(189, 100%, 97%)
+    no-repeat;
+}
+
+nav img {
+  width: 8rem;
+}
+
+nav button {
+  width: 10rem;
+}
+
+/* .busstop footer{
+  background-color: hsl(189, 100%, 9%);
+  flex-direction: row;
+  margin-top: 5rem;
+  width: 1000px;
+  height: 500px;
+  margin-left: 50rem; */
+
+
+.container{
+  background-color: white;
+  border-radius: 1.5rem;
+  color: black;
+  width: 200;
+  height: 100; 
+  
+
+
+
+}
+
